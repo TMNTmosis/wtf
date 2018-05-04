@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/pocetna"
+            android:icon="@drawable/chefhat"
+            android:title="@string/pocetna" />
+        <item
+            android:id="@+id/prijava"
+            android:icon="@drawable/tableware_24px"
+            android:title="@string/prijava" />
+        <item
+            android:id="@+id/registracija"
+            android:icon="@drawable/book_24px"
+            android:title="@string/registracija" />
+        <item
+            android:id="@+id/o_aplikaciji"
+            android:icon="@drawable/about"
+            android:title="@string/oapk" />
+    </group>
+
+    <item android:title="Akcije">
+
+        <menu>
+
+
+            <item
+                android:id="@+id/dodaj_recept"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Dodaj recept" />
+
+            <item
+                android:id="@+id/pregledaj_recept"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Pregledaj recepte" />
+
+            <item
+                android:id="@+id/trazi_recept"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Trazi recept" />
+
+            <item
+                android:id="@+id/unosenje_sastojaka"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Unosenje sastojaka" />
+
+        </menu>
+    </item>
+
+</menu>

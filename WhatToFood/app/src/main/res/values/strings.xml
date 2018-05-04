@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">WTF</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="pocetna">Pocetna</string>
+    <string name="registracija">Registruj se</string>
+    <string name="oapk">O Aplikaciji</string>
+    <string name="prijava">Prijavi se</string>
+    <string name="dodajRecept">Dodaj recept</string>
+    <string name="pregledajRecept">Pregledaj recepte</string>
+    <string name="traziRecept">Trazi recept</string>
+    <string name="unesiSastojke">Unosenje sastojaka</string>
+    <string name="title_activity_prijava">Prijavi se</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_registracija">Registracija</string>
+    <string name="Username">Username:</string>
+    <string name="Prijavi_btn">Prijavi se</string>
+
+    <string-array name="pol_niz">
+        <item>Muški</item>
+        <item>Ženski</item>
+        <item>Neopredeljen</item>
+    </string-array>
+    <string name="title_activity_onama">OnamaActivity</string>
+    <string name="about_text">WTF (What To Food) je projekat namenjen korisnicima koji žele da spremaju hranu, ali ne znaju tačno koju. Treba da predstavi lak i efikasan način na koji korisnik može da unese sastojke koje želi i da na osnovu njih pronađe jelo koje može da spremi.</string>
+    <string name="about_text_2">
+        Bogdan Spasić
+        Dušan Ristić
+        Salman Salman
+        Mladen Ranđelović</string>
+    <string name="about_text_3"> tmnt.swe@gmail.com Copyright© Team TMNT, 2017.</string>
+    <string name="about_autor">Autori:</string>
+    <string name="title_activity_dodaj_recept">DodajReceptActivity</string>
+    <string name="title_activity_dodaj">DodajActivity</string>
+    <string name="tab_text_1">Faza 1</string>
+    <string name="tab_text_2">Faza 2</string>
+    <string name="tab_text_3">Faza 3</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="camera">Camera</string>
+
+</resources>
